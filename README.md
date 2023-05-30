@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola 
 
-<!--
-**Daru22/Daru22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Back-End Software Developer con más de 3 años de experiencia en el desarrollo de Software Empresarial, He utilizado el Lenguaje Java y Bases de datos relacionales para dar soluciones a empresas del sector Telecomunicaciones, Facturación Y
+a una entidad Tributaria.
 
-Here are some ideas to get you started:
+* Actualmente trabajo como Developer en Canvia para su Cliente SUNAT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Java
+* Oracle
+* Microservicios
+* Angular
+
+## Contacto
+
+Si estás interesado en mi perfil no dudes en contactar conmigo en el siguiente email galvez.rpm2@gmail.com
